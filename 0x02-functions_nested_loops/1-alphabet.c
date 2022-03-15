@@ -3,7 +3,7 @@
 /**
  * main- prints out the aplhabets
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
 	char ch;
 
