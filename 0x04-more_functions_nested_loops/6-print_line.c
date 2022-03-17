@@ -4,7 +4,7 @@
  * print_line- prints out a straight line
  * @n: the number of times the character _ will be printed
  */
-void print_line(int n);
+void print_line(int n)
 {
 	if (n <= 0)
 	{
