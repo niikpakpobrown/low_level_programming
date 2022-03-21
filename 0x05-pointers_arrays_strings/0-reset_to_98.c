@@ -1,0 +1,13 @@
+#include "main.h"
+
+/**
+ * reset_to_98 - pointer to an int as parameter
+ * and updates the value it points to to 98
+ * @n: pointer to be reset
+ */
+void reset_to_98(int *n)
+{
+	int n;
+	*p = &n;
+	*P = 98;
+}
