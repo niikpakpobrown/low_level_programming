@@ -8,12 +8,9 @@
  */
 void reverse_array(int *a, int n)
 {
-	int cnt = 0;
+	int cnt;
 
-	while (cnt < n)
-	{
-		cnt++;
-	}
+	cnt = n - 1;
 
 	int b;
 
