@@ -1,5 +1,5 @@
 #include"main.h"
-#include<stdio.h>
+#include<stdlib.h>
 
 /**
  * *_strdup - copies a string
@@ -9,12 +9,11 @@
  */
 char *_strdup(char *str)
 {
+	char *p;
 	unsigned int i, a;
 
 	i = 0;
 	a = 0;
-
-	char *p;
 
 	if (str == NULL)
 		return (NULL);
