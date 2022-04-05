@@ -1,0 +1,1 @@
+This folder contains various assignments on malloc free.
